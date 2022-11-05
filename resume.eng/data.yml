@@ -46,7 +46,7 @@ experiences:
       details: |
         + Domain - Electronic signatures, Document visualization and preservation, Electronic invoices.
 
-        23 years of constant cooperation. Took part in writing many commersically successful software.
+        23 years of constant cooperation. Took part in writing many commercially successful software.
 
     - role: Frontend/Backend Developer
       time: 2015.10 - 2016.08
@@ -93,7 +93,7 @@ projects:
     - name: DigitalSign
       details: |
         Standalone application written on C++. Used for visualization, validation
-        and interactive or automatic siganture of electronic documents.
+        and interactive or automatic signature of electronic documents.
 
     - name: IT Telecom Enrollment
       details: |
@@ -167,7 +167,7 @@ education:
   display: true
   title: Education
   items:
-    - university: Kyrghyz Technical University (KTU)
+    - university: Kirghiz Technical University (KTU)
       time: 1993 - 1998
       major: Electro Mechanics
       degree: Magister
