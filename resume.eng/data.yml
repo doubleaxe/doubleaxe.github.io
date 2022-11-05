@@ -1,0 +1,209 @@
+basic:
+  name: Alexey Usov
+  title: Java/Javascript/C++ Backend Developer
+  avatar:
+    display: true
+    path: profile.jpg
+
+contact:
+  location: Krasnoyarsk, Russia
+  email: dax@xdax.ru
+  phone: "+79232802859"
+  website: doubleaxe.github.io
+  wechat:
+  whatsapp:
+  telegram: "doubleaxe"
+  github: doubleaxe
+  gitlab:
+  bitbucket:
+  googlescholar:
+  researchgate:
+  linkedin: aousov
+  medium:
+  twitter:
+  stackoverflow:
+  quora:
+  goodreads:
+
+profile:
+  display: true
+  title: Profile
+  details: |
+    23 years of experience working as computer programmer. Know various languages and technologies.
+    Can quickly learn new frameworks or languages.
+    Looking for remote part time work, Weekends and/or 2-3 hours a day at evenings
+    (about 20 hours a Week).
+
+experiences:
+  display: true
+  title: Experiences
+  items:
+    - role: Software Developer
+      time: 2000 - now
+      company: CompEd Software Design Srl
+      tag: Remote
+      location: Genova, Italy
+      details: |
+        + Domain - Electronic signatures, Document visualization and preservation, Electronic invoices.
+
+        23 years of constant cooperation. Took part in writing many commersically successful software.
+
+    - role: Frontend/Backend Developer
+      time: 2015.10 - 2016.08
+      company: TipTopCar
+      tag: Remote, part-time
+      location: Russia
+      details: |
+        + Domain - Joint trips.
+
+        Written site frontend and backend in javascript for registering and finding joint trips.
+
+    - role: Backend Developer
+      time: 2009.05 - 2009.09
+      company: Rapida
+      tag: Remote, part-time
+      location: Russia
+      details: |
+        + Domain - Payment systems.
+
+        Updated payment gateway written in java according to current business needs.
+
+projects:
+  display: true
+  title: Projects
+  intro: |
+    Most valuable projects.
+
+  items:
+    - name: Portale FattApp
+      details: |
+        Large multi-service architecture. Server is capable building, importing and sending electronic invoices,
+        Can accept various documents for long term storage (consevration).
+        Can be accessed with WebUI and also automatically with SOAP.
+        Daily serves hundreds of users - about 800 requests per minute.
+        Processes up to 500k invoices weekly.
+
+    - name: DigitalSign Cloud
+      link: https://cloud.compedservizi.it/verifica/
+      details: |
+        Cloud viewer to view pdf files, office documents, invoice xmls, archives, emails.
+        Can sign and validate PAdES, CAdES, XAdES signatures. Can perform handwritten signatures.
+        Written on java. Can be used as library (as separate product, DigitalSign Core).
+
+    - name: DigitalSign
+      details: |
+        Standalone application written on C++. Used for visualization, validation
+        and interactive or automatic siganture of electronic documents.
+
+    - name: IT Telecom Enrollment
+      details: |
+        Special server for IT Telecom performing enrollment. Accepts certificate requests, generates certificates,
+        generates CRLs.
+
+    - name: Fsm PKCS#11
+      details: |
+        Virtual PKCS#11 token, which pretends to be hardware PKCS#11 token,
+        but uses cloud signatures from various providers.
+
+    - name: VisualPEC
+      details: |
+        Mozilla Thunderbird add-on written on C++, javascript, xul.
+        Used for processing and viewing certified PEC email.
+
+skills:
+  display: true
+  title: Skills
+  details: |
+    Languages:
+    + Java
+      + Maven, Ant
+      + SOAP, JAX-WS
+      + REST, JAX-RS, Jackson, Swagger
+      + Bouncy Castle
+      + JDBC, EclipseLink, Hibernate, MyBatis
+      + Jsp
+      + Xslt, Saxon
+      + Mozilla Rhino, E4X
+      + Spring Boot
+      + JUnit
+    + Javascript (Node.js and Web), ES-2019
+      + Express js
+      + Eslint, Webpack, Require.js
+      + JQuery, Vue.js, DataTables
+      + Bootstrap, Materialize
+      + Twig
+      + Node SOAP
+      + Mocha, Chai
+    + C++
+      + OpenSSL integration
+      + Xalan-C, Xerces-C
+      + COM, ActiveX
+      + ATL, MFC
+      + CppUnit
+
+    Databases:
+    + PostgreSQL
+    + MySQL / MariaDB
+    + Oracle Database
+    
+    DevOps:
+    + Docker
+    + Ubuntu / Debian
+    + Zfs, ZnapZend
+    + Amazon EC2
+    + KVM / QEMU, OpenNebula
+    + Elasticsearch / Kibana
+    + Nginx, Apache HTTP Server, Apache Tomcat
+    
+#  levels:
+#    - name: Skill A
+#      level: 90
+#    - name: Skill B
+#      level: 80
+#    - name: Skill C
+#      level: 70
+
+education:
+  display: true
+  title: Education
+  items:
+    - university: Kyrghyz Technical University (KTU)
+      time: 1993 - 1998
+      major: Electro Mechanics
+      degree: Magister
+
+languages:
+  display: true
+  title: Languages
+  items:
+    - idiom: Russian
+      level: Native
+    - idiom: English
+      level: Professional
+
+interests:
+  display: true
+  title: Interests
+  items:
+    - item: Music
+      link:
+    - item: Traveling
+      link:
+    - item: Computer games
+      link:
+
+evaluation:
+  display: false
+  title: Self-evaluation
+  details: |
+    Here is my self evaluation.
+    + First
+    + Second
+
+    ...
+
+footer:
+  display: false
+
+#close: >
+#  Sorry, my resume has been hidden.

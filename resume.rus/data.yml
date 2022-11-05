@@ -1,0 +1,203 @@
+basic:
+  name: Алексей Усов
+  title: Java/Javascript/C++ Backend Разработчик
+  avatar:
+    display: true
+    path: profile.jpg
+
+contact:
+  location: Красноярск, Россия
+  email: dax@xdax.ru
+  phone: "+79232802859"
+  website: doubleaxe.github.io
+  wechat:
+  whatsapp:
+  telegram: "doubleaxe"
+  github: doubleaxe
+  gitlab:
+  bitbucket:
+  googlescholar:
+  researchgate:
+  linkedin: aousov
+  medium:
+  twitter:
+  stackoverflow:
+  quora:
+  goodreads:
+
+profile:
+  display: true
+  title: Профиль
+  details: |
+    Работаю программистом 23 года. Знаю разные языки и технологии.
+    Могу быстро изучать новые языки и фреймворки.
+    Ищу удаленную работу на неполный рабочий день, по выходным и/или 2-3 часа в день по вечерам
+    (около 20 часов в неделю).
+
+experiences:
+  display: true
+  title: Опыт работы
+  items:
+    - role: Разработчик
+      time: 2000 - по текущее время
+      company: CompEd Software Design Srl
+      tag: Удаленно
+      location: Генуя, Италия
+      details: |
+        + Направление - Цифровые подписи, Просмотр и хранение документов, Электронные счета-фактуры.
+
+        23 года непрерывного сотрудничества. Учавствовал в написании многих коммерчески успешных продуктов.
+
+    - role: Frontend/Backend разработчик
+      time: 2015.10 - 2016.08
+      company: TipTopCar
+      tag: Удаленно, неполный рабочий день
+      location: Россия
+      details: |
+        + Направление - Совместные поездки.
+
+        Написана frontend и backend часть сайта на javascript для регистрации и поиска совместных поездок.
+
+    - role: Backend разработчик
+      time: 2009.05 - 2009.09
+      company: Рапида
+      tag: Удаленно, неполный рабочий день
+      location: Россия
+      details: |
+        + Направление - Платежные системы.
+
+        Переписывал и улучшал платежный шлюз на java в соответсвии с текущими нуждами компании.
+
+projects:
+  display: true
+  title: Проекты
+  intro: |
+    Наиболее ценные проекты.
+
+  items:
+    - name: Portale FattApp
+      details: |
+        Большой продукт состоящий из нескольких отдельных сервисов.
+        На сервере можно создавать, импотрировать и отправлять электронные счета-фактуры.
+        Может принимать различные документы на долгосрочное хранение (консервацию).
+        Работает через Веб-интерфейс и с автоматическими программами через SOAP.
+        Обслуживает несколько сотен пользователей в день - около 800 запросов в минуту.
+        Обрабатывает до 500 тысяч электронных счетов-фактур в неделю.
+
+    - name: DigitalSign Cloud
+      link: https://cloud.compedservizi.it/verifica/
+      details: |
+        Облачный универсальный просмотрщик для просмотра pdf файлов, офисных документов,
+        счетов-фактур в xml формате, архивов, электронных писем.
+        Может подписывать и проверять цифровую подпись PAdES, CAdES, XAdES.
+        Поддерживает подпись рукой по экрану.
+        Написан на java. Может быть использован как библиотека (в виде отдельного продукта, DigitalSign Core).
+
+    - name: DigitalSign
+      details: |
+        GUI приложение на C++. Используется для просмотра документов, проверки
+        и добавления цифровой подписи (интерактивно и автоматически).
+
+    - name: IT Telecom Enrollment
+      details: |
+        Клиент-серверный продукт по специальному заказу от IT Telecom.
+        Используется для принятия запросов на сертификаты PKCS#10, генериции сертификатов и CRL.
+
+    - name: Fsm PKCS#11
+      details: |
+        Виртуальный PKCS#11 токен, реализующий PKCS#11 API,
+        использует для подписи различные облачные сервисы.
+
+    - name: VisualPEC
+      details: |
+        Адд-он для Mozilla Thunderbird написанный на C++, javascript, xul.
+        Используется для обработки и просмотра специальной PEC почты.
+
+skills:
+  display: true
+  title: Умения
+  details: |
+    Языки и технологии:
+    + Java
+      + Maven, Ant
+      + SOAP, JAX-WS
+      + REST, JAX-RS, Jackson, Swagger
+      + Bouncy Castle
+      + JDBC, EclipseLink, Hibernate, MyBatis
+      + Jsp
+      + Xslt, Saxon
+      + Mozilla Rhino, E4X
+      + Spring Boot
+      + JUnit
+    + Javascript (Node.js and Web), ES-2019
+      + Express js
+      + Eslint, Webpack, Require.js
+      + JQuery, Vue.js, DataTables
+      + Bootstrap, Materialize
+      + Twig
+      + Node SOAP
+      + Mocha, Chai
+    + C++
+      + OpenSSL integration
+      + Xalan-C, Xerces-C
+      + COM, ActiveX
+      + ATL, MFC
+      + CppUnit
+
+    Базы данных:
+    + PostgreSQL
+    + MySQL / MariaDB
+    + Oracle Database
+    
+    DevOps:
+    + Docker
+    + Ubuntu / Debian
+    + Zfs, ZnapZend
+    + Amazon EC2
+    + KVM / QEMU, OpenNebula
+    + Elasticsearch / Kibana
+    + Nginx, Apache HTTP Server, Apache Tomcat
+    
+#  levels:
+#    - name: Skill A
+#      level: 90
+#    - name: Skill B
+#      level: 80
+#    - name: Skill C
+#      level: 70
+
+education:
+  display: true
+  title: Образование
+  items:
+    - university: Киргизский Технический Университет (КТУ)
+      time: 1993 - 1998
+      major: Электро-механика
+      degree: Магистр
+
+interests:
+  display: true
+  title: Интересы
+  items:
+    - item: Музыка
+      link:
+    - item: Путешествия
+      link:
+    - item: Компьютерные игры
+      link:
+
+evaluation:
+  display: false
+  title: Дополнительно
+  details: |
+    Here is my self evaluation.
+    + First
+    + Second
+
+    ...
+
+footer:
+  display: false
+
+#close: >
+#  Sorry, my resume has been hidden.
