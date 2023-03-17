@@ -4,5 +4,5 @@
 - [Резюме (рус)](https://doubleaxe.github.io/resume.rus/)
 
 # Calculator/Factory Planner
-- [Sample](https://doubleaxe.github.io/daxfb/sample/)
-- [Evospace](https://doubleaxe.github.io/daxfb/evospace-calculator/)
+- [Sample](https://doubleaxe.github.io/daxfb-calculator/?gameId=sample)
+- [Evospace](https://doubleaxe.github.io/daxfb-calculator/?gameId=evospace)
